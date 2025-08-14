@@ -112,10 +112,17 @@ This project is licensed under the **MIT License** — see [`LICENSE`](LICENSE).
 
 This work builds on foundational research from:
 
-Sirven JI. Epilepsy: A Spectrum Disorder. Cold Spring Harb Perspect Med. 2015 Sep 1;5(9):a022848. doi:10.1101/cshperspect.a022848. PMID:26328931; PMCID:PMC4561391.
+**Sirven JI.** Epilepsy: A Spectrum Disorder. Cold Spring Harb Perspect Med. 2015 Sep 1;5(9):a022848. doi:10.1101/cshperspect.a022848. PMID:26328931; PMCID:PMC4561391.
 
-Light GA, Williams LE, Minow F, Sprock J, Rissling A, Sharp R, Swerdlow NR, Braff DL. Electroencephalography (EEG) and event-related potentials (ERPs) with human participants. Curr Protoc Neurosci. 2010 Jul;Chapter 6:Unit 6.25.1-24. doi:10.1002/0471142301.ns0625s52. PMID:20578033; PMCID:PMC2909037.
+**Light GA, Williams LE, Minow F, Sprock J, Rissling A, Sharp R, Swerdlow NR, Braff DL.** Electroencephalography (EEG) and event-related potentials (ERPs) with human participants. Curr Protoc Neurosci. 2010 Jul;Chapter 6:Unit 6.25.1-24. doi:10.1002/0471142301.ns0625s52. PMID:20578033; PMCID:PMC2909037.
 
-Britton JW, Frey LC, Hopp JL, et al.; St. Louis EK, Frey LC, editors. Electroencephalography (EEG): An Introductory Text and Atlas of Normal and Abnormal Findings in Adults, Children, and Infants [Internet]. Chicago: American Epilepsy Society; 2016. The Normal EEG. Available from: https://www.ncbi.nlm.nih.gov/books/NBK390343
+**Britton JW, Frey LC, Hopp JL, et al.; St. Louis EK, Frey LC, editors.** Electroencephalography (EEG): An Introductory Text and Atlas of Normal and Abnormal Findings in Adults, Children, and Infants [Internet]. Chicago: American Epilepsy Society; 2016. The Normal EEG. Available from: https://www.ncbi.nlm.nih.gov/books/NBK390343
 
-Fisher RS, Scharfman HE, deCurtis M. How can we identify ictal and interictal abnormal activity? Adv Exp Med Biol. 2014;813:3-23. doi:10.1007/978-94-017-8914-1_1. PMID:25012363; PMCID:PMC4375749.
+**Fisher RS, Scharfman HE, deCurtis M.** How can we identify ictal and interictal abnormal activity? Adv Exp Med Biol. 2014;813:3-23. doi:10.1007/978-94-017-8914-1_1. PMID:25012363; PMCID:PMC4375749.
+
+---
+### Author
+
+**Melanie Dietrich**  
+Department of Electrical and Computer Engineering  
+Stevens Institute of Technology · mdietri1@stevens.edu
