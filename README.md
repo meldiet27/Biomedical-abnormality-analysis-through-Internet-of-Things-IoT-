@@ -61,13 +61,13 @@ Inspect variable outputs, plots, and diagnostic messages for detected abnormalit
 
 ## IoT Data Flow
 
-![IoT Data Flow](assets_bio/iot_data_flow.png)
+![IoT Data Flow](iot_data_flow.png)
 
 ---
 
 ## ML Pipeline
 
-![ML Pipeline](assets_bio/ml_pipeline.png)
+![ML Pipeline](ml_pipeline.png)
 
 ---
 
